@@ -1,0 +1,235 @@
+/* sm */
+@media ((min-width: 0px) and (max-width: 639px)) {
+    .chefs .container .items .item {
+        width: 100%;
+
+    }
+
+    .nav ul {
+        display: none;
+    }
+
+    .chefs .container .items {
+        gap: 30px;
+
+    } 
+
+   .pro {
+        font-size: 30px;
+
+    }
+
+    .gallary .contain .box {
+        width: 100%;
+
+    }
+
+    .Home .content .left .btn2,.Home .content .left .btn1 {
+        padding-right: 20px;
+        font-size: 11px;
+    
+    }
+    .Home .content .left .play {
+        height: 52px;
+        top:21px;
+    
+    }
+    .Home .content .left h2 {
+      
+        font-size: 40px;
+        font-weight: 700;
+        color: #37373F;
+        padding-bottom: 20px;
+    }
+    
+    .Home .content .left p {
+       
+        padding-bottom: 10px;
+    }
+    .contact .contain form .small-input {
+        width: 100%;
+    }
+.contact .contain .info .box {
+    width: 100%;
+    
+    }
+    .contact .contain .info .box .write p {
+        font-size: 14px;
+    }
+    
+    .contact .contain .info .box .write h3 {
+        font-size: 18px;
+    }
+
+    footer .contain .left {
+        width: 100%;
+
+    }
+    
+    footer .contain .center {
+        width: 100%;
+
+    }
+    
+    footer .contain .right {
+        width: 100%;
+
+    }
+    footer .contain .center input {
+        width:40%;
+    
+    }
+
+}
+
+
+
+
+
+/* md */
+@media ((min-width: 640px) and (max-width: 768px)) {
+    .chefs .container .items .item {
+        width: 100%;
+
+    }
+
+    .nav ul {
+        display: none;
+    }
+
+    .chefs .container .items {
+        gap: 30px;
+
+    } 
+
+   .pro {
+        font-size: 30px;
+
+    }
+
+    .gallary .contain .box {
+        width: 100%;
+
+    }
+
+    .Home .content .left .btn2,.Home .content .left .btn1 {
+        padding-right: 20px;
+        font-size: 11px;
+    
+    }
+    .Home .content .left .play {
+        height: 52px;
+        top:21px;
+    
+    }
+    .Home .content .left h2 {
+      
+        font-size: 40px;
+        font-weight: 700;
+        color: #37373F;
+        padding-bottom: 20px;
+    }
+    
+    .Home .content .left p {
+       
+        padding-bottom: 10px;
+    }
+    .contact .contain form .small-input {
+        width: 1005%;
+    }
+    .contact .contain .info .box {
+    width: 100%;
+    
+    }
+    
+    footer .contain .left {
+        width: 100%;
+
+    }
+    
+    footer .contain .center {
+        width: 100%;
+
+    }
+    
+    footer .contain .right {
+        width: 100%;
+
+    }
+    footer .contain .center input {
+        width:40%;
+    
+    }
+}
+
+/* lg */
+@media ((min-width: 769px) and (max-width: 1024px)) {
+    .chefs .container .items .item {
+        width: 45%;
+    }
+
+    .chefs .container .items {
+        gap: 30px;
+
+    }
+
+    /* .gallary .contain {
+        flex-direction: column;
+    
+     } */
+
+    .gallary .contain .box {
+        width: 33%;
+
+    }
+    .contact .contain .info .box {
+        width: 100%;
+        
+        }
+        .contact .contain form .small-input {
+            width: 42%;
+        }
+        footer .contain .left {
+            width: 100%;
+    
+        }
+        
+        footer .contain .center {
+            width: 100%;
+    
+        }
+        
+        footer .contain .right {
+            width: 100%;
+    
+        }
+        footer .contain .center input {
+            width:40%;
+        
+        }
+}
+
+/* xl */
+@media ((min-width: 769px) and (max-width: 1280px)) {
+    .chefs .container .items .item {
+        width: 32%;
+    }
+
+    .gallary .contain .box {
+        width: 33%;
+
+    }
+
+    
+footer .contain .center {
+    width: 60%;
+
+}
+footer .contain .center input {
+    width:40%;
+
+}
+}
+
+/* 2xl */
+@media (min-width: 1536px) {}
